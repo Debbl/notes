@@ -4,6 +4,8 @@
 
 # [learn-javascript-basic](https://github.com/Debbl/learn-javascript-basic)
 
+# [learn-jQuery-notes](https://github.com/Debbl/learn-jQuery-notes)
+
 # [learn-webpack-notes](https://github.com/Debbl/learn-webpack-notes)
 
 # [learn-react-notes](https://github.com/Debbl/learn-react-notes)
