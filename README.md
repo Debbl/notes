@@ -21,8 +21,17 @@
 > 前端工程化基础
 ## [learn-webpack-notes](https://github.com/Debbl/learn-webpack-notes)
 
-# [learn-react-notes](https://github.com/Debbl/learn-react-notes)
+# 阶段六
+> Vue3
+## [learn-vuejs-notes](https://github.com/Debbl/learn-vuejs-notes)
+## [learn-vue3-notes](https://github.com/Debbl/learn-vue3-notes)
 
-# [learn-vue3-notes](https://github.com/Debbl/learn-vue3-notes)
+# 阶段七
+> 小程序
 
-# [learn-vuejs-notes](https://github.com/Debbl/learn-vuejs-notes)
+# 阶段八
+> 就业指导
+
+# 阶段九
+> React
+## [learn-react-notes](https://github.com/Debbl/learn-react-notes)
